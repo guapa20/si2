@@ -1,0 +1,11 @@
+#EXTM3U
+#EXT-X-TARGETDURATION:10
+#EXT-X-ALLOW-CACHE:YES
+#EXT-X-VERSION:3
+#EXT-X-MEDIA-SEQUENCE:6965680
+#EXTINF:10.000,
+https://mdssplive-lh.akamaihd.net/i/mtmad_1@744785/segment6965680_2500_av-b.ts?sd=10
+#EXTINF:10.000,
+https://mdssplive-lh.akamaihd.net/i/mtmad_1@744785/segment6965681_2500_av-b.ts?sd=10
+#EXTINF:10.000,
+https://mdssplive-lh.akamaihd.net/i/mtmad_1@744785/segment6965682_2500_av-b.ts?sd=10
